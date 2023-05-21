@@ -12,7 +12,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="NODE" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="JAVA" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img align="center" alt="MySQL" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 </div>
  
   ##
