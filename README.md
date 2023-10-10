@@ -6,8 +6,8 @@
 
 <div>
  
-  ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardoBelo&show_icons=true&theme=radical)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoBelo&layout=compact&langs_count=6&theme=radical"/>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carloseduardobelo&theme=radical)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carloseduardobelo&theme=radical)
  </div>
  
  &nbsp;
